@@ -1,7 +1,7 @@
 # dsnake
-~~best~~ worst discord libary
+~~best~~ worst discord library
 
-#Features :
+# Features :
 
 no voice support
 not working
