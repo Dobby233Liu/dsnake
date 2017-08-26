@@ -8,4 +8,6 @@ no voice support
 
 not working
 
-click here dont worry it never expires https://discord.gg/kCwREVb
+## add bot 4 u : 
+
+[click here](https://discord.gg/kCwREVb) dont worry it never expires 
